@@ -9,8 +9,7 @@
 
 😄 I’m currently serving as student representatives on the Faculty Board of Engineering at HK PolyU. 
 
-💬 My Blog: https://hanjiaming.com.cn
-
+💬 My Blog: https://hongshu.zxg.red
 🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
 
 ⚡ You can get more information by searching Hongshu,Guomaimang,Hirsun,Hanjiaming
