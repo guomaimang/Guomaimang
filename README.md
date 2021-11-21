@@ -1,16 +1,17 @@
 ## My Profile
 
 * LANGUAGE：Mandarin Chinese, English
-* DIRECTION：Computing、Artificial Intelligence、Data Analysis
-* EXPERIENCE：Python、C & C++、Go、Java、Rust、HTML & JS & CSS & Mysql & PHP、PostgreSQL、Swift、Kotlin & Flutter
+* DIRECTION：Computer Science、Cloud Architecture Engineering、Information Engineering
 
 📫 How to reach me: hanjiaming@zhongxueguan.cn
 
 🌱 I’m currently learning at HK PolyU as a sophomore.
 
-🌏 I’m currently serving as student representatives on the Faculty Board of Engineering at HK PolyU. 
+😄 I’m currently serving as student representatives on the Faculty Board of Engineering at HK PolyU. 
 
 💬 My Blog: https://hanjiaming.com.cn
+
+🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
 
 ⚡ You can get more information by searching Hongshu,Guomaimang,Hirsun,Hanjiaming
 
