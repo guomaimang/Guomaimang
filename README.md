@@ -9,8 +9,8 @@
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
-- For more information about career, please visit my [Linkedin](https://www.linkedin.com/in/hanjiaming).
-- You can find many interesting researches and project in my [webpage](https://hongshu.zxg.red)
+- For more information about career, please visit [my Linkedin](https://www.linkedin.com/in/hanjiaming).
+- You can find many interesting researches and project in [my webpage](https://hongshu.zxg.red)
 
 ### Info
 
