@@ -28,6 +28,9 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 * High school: Hengshui No. 1 Middle School (South Campus of Hebei Hengshui Middle School) 
 * University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
 
+[![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang)](https://github.com/guomaimang/)
+
+
 
 <!--
 **guomaimang/guomaimang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
