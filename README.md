@@ -2,10 +2,8 @@
 
 ### Professional Experience
 
-- Cloud Architecture Engineer
-- Data Analytics Scientist
-- Enterprise Application Engineer
-- Software Project Manager
+- Data Scientist Assistant
+- Java Enterprise Application Engineer Assistant
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
