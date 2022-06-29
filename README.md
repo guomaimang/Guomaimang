@@ -11,8 +11,6 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 - You can find many interesting researches and project in [my webpage](https://hongshu.zxg.red)
 - I am pleased to participate in academic research and internships, you can access [my skill sheet](https://hongshu.zxg.red/wp-content/uploads/file/SA-updating.pdf)
 
-[![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang)](https://github.com/guomaimang/)
-
 ### Info
 
 📫 How to reach me: hanjiaming@zhongxueguan.cn
@@ -28,8 +26,9 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 * High school: Hengshui No. 1 Middle School (South Campus of Hebei Hengshui Middle School) 
 * University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
 
+### Stats
 
-
+[![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang)](https://github.com/guomaimang/)
 
 
 <!--
