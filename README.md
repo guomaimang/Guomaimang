@@ -26,7 +26,7 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 ## Stats
 
-[![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang)](https://github.com/guomaimang/)
+[![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang&hide=stars)](https://github.com/guomaimang/)
 
 
 <!--
