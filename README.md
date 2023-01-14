@@ -6,8 +6,7 @@
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
 - For more information about career, please visit [my Linkedin](https://www.linkedin.com/in/hanjiaming).
-- You can find many interesting researches and project in [my webpage](https://hongshu.zxg.red)
-- I am pleased to participate in academic research and internships, you can access [my skill sheet](https://hongshu.zxg.red/wp-content/uploads/file/SA-updating.pdf)
+- You can find many interesting researches and project in [my webpage](https://guomaimang.github.io/research.html)
 
 ## Info
 
