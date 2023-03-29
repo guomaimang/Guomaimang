@@ -1,7 +1,8 @@
 ## Professional Experience
 
-- Data Scientist Assistant
-- Java Enterprise Application Engineer Assistant
+- Digital Consulting in Pwc Hong Kong.
+- Data Scientist Assistant in CAS
+- Java Enterprise Application Engineer Assistant in CAS.
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
@@ -26,6 +27,10 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 ## Stats
 
 [![HS's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaimang&hide=stars)](https://github.com/guomaimang/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guomaimang&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guomaimang&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guomaimang&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guomaimang&theme=github_dark&utcOffset=8)
 
 
 <!--
