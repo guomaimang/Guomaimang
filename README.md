@@ -11,7 +11,7 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 ## Info
 
-📫 How to reach me: hanjiaming@asi.ac.cn
+📫 How to reach me: hirsunmw@outlook.com
 
 🌱 I’m currently learning at HK PolyU.
 
