@@ -1,8 +1,8 @@
 ## Professional Experience
 
-- Digital Consulting in Pwc Hong Kong.
-- Data Scientist Assistant in CAS
-- Java Enterprise Application Engineer Assistant in CAS.
+- Microsoft MVP Community: [Student Learning Ambassador](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a) 
+- Digital Consulting in PwC Hong Kong.
+- Algorithm Engineer / Data Scientist Assistant in CAS
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
@@ -19,10 +19,10 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
 
-🔭 DataCamp: https://www.datacamp.com/profile/hanjiaming
+🔭 Interests: Cloud Computing Architecture and Artificial Intelligence
 
-* High school: Hengshui No. 1 Middle School (South Campus of Hebei Hengshui Middle School) 
 * University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
+* High school: Hengshui No. 1 Middle School (South Campus of Hebei Hengshui Middle School) 
 
 ## Stats
 
