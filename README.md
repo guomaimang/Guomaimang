@@ -2,7 +2,7 @@
 
 - Microsoft MVP Community: [Student Learning Ambassador](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a) 
 - Digital Consulting in PwC Hong Kong.
-- Algorithm Engineer / Data Scientist Assistant in CAS
+- Algorithm Engineer / Data Scientist Assistant in CAS
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
