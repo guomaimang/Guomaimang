@@ -14,7 +14,7 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 🌱 I’m currently learning at CUHK.
 
-💬 My WebPage: https://guomaimang.github.io
+💬 My WebPage: https://guomaimang.github.io/myself
 
 🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
 
