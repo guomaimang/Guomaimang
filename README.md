@@ -6,7 +6,7 @@
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
 - For more information about career, please visit [my Linkedin](https://www.linkedin.com/in/hanjiaming).
-- You can find many interesting researches and project in [my webpage](https://guomaimang.github.io/research.html)
+- You can find many interesting researches and project in [my webpage](https://guomaimang.github.io/project.html)
 
 ## Info
 
