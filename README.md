@@ -1,26 +1,24 @@
 ## Professional Experience
 
-- Microsoft MVP Community: [Student Learning Ambassador](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a) 
-- Application Developer at Tencent Shenzhen.
+- Cloud Architect / Cloud Developer at Tencent Hong Kong.
+- Microsoft MVP Community: [Student Learning Ambassador](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a)
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
 - For more information about career, please visit [my Linkedin](https://www.linkedin.com/in/hanjiaming).
-- You can find many interesting researches and project in [my webpage](https://guomaimang.github.io/project.html)
+- You can find some interesting projects in [my webpage](https://guomaimang.github.io/project.html)
 
 ## Info
 
 📫 How to reach me: hirsunmw@outlook.com
 
-🌱 I’m currently learning at CUHK.
-
 💬 My WebPage: https://guomaimang.github.io/myself
 
 🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
 
-🔭 Interests:  Information System and Cloud Computing
+🔭 Interests: Artificial Intelligence and Cloud Computing
 
-* Postgraduate: The Chinese University of Hong Kong (香港中文大學) @CUHK-IE
+* Master: The Chinese University of Hong Kong (香港中文大學) @CUHK-IE
 * University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
 * High school: Hebei Hengshui Middle School (河北衡水中學)
 
