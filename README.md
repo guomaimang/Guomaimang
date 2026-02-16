@@ -1,7 +1,7 @@
 ## Professional Experience
 
 - Cloud Architect / Cloud Developer at Tencent Hong Kong.
-- Microsoft MVP Community: [Student Learning Ambassador](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a)
+- [Microsoft MVP Community](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a)
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
 
@@ -14,13 +14,9 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 💬 My WebPage: https://guomaimang.github.io/myself
 
-🌏 Linkedin: https://www.linkedin.com/in/hanjiaming
-
 🔭 Interests: Artificial Intelligence and Cloud Computing
 
-* Master: The Chinese University of Hong Kong (香港中文大學) @CUHK-IE
-* University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
-* High school: Hebei Hengshui Middle School (河北衡水中學)
+🌱 Campus: The Chinese University of Hong Kong (香港中文大學)
 
 ## Stats
 
