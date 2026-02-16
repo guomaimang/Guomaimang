@@ -10,13 +10,10 @@ LANGUAGE：Mandarin Chinese, English, Cantonese
 
 ## Info
 
-📫 How to reach me: hirsunmw@outlook.com
-
-💬 My WebPage: https://guomaimang.github.io/myself
-
-🔭 Interests: Artificial Intelligence and Cloud Computing
-
-🌱 Campus: The Chinese University of Hong Kong (香港中文大學)
+- 📫 How to reach me: hirsunmw@outlook.com
+- 💬 My WebPage: https://guomaimang.github.io/myself
+- 🔭 Interests: Artificial Intelligence and Cloud Computing
+- 🌱 Campus: The Chinese University of Hong Kong (香港中文大學)
 
 ## Stats
 
