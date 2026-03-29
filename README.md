@@ -1,6 +1,6 @@
 ## Professional Experience
 
-- Cloud Architect / Cloud Developer at Tencent Hong Kong.
+- Cloud Architect / AI Developer at Tencent Hong Kong.
 - [Microsoft MVP Community](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a)
 
 LANGUAGE：Mandarin Chinese, English, Cantonese
